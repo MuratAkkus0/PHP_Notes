@@ -11,7 +11,7 @@
 # Comparison Operators
 # ==,===,!=,!==,<,>,<=,>=
 # <>(!= ile ayni)
-# <=> (Eger sagdaki deger büyük ise 1, degerler esit ise 0, soldaki deger büyük ise -1 döner)
+# <=> (spaceship , Eger sagdaki deger büyük ise 1, degerler esit ise 0, soldaki deger büyük ise -1 döner)
 
 # Increment / Decrement Operators
 #++$x ,--$x (js ile ayni)
