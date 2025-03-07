@@ -5,6 +5,7 @@
 $studentNames = ["joe", "mike", "carl"];
 $studentNumbers = [100, 120, 130];
 
+echo "Array item count : " . count($studentNames) . "<br>";
 echo $studentNames[0] . "<br>";
 echo $studentNames[1] . "<br>";
 echo $studentNumbers[0] . "<br>";
